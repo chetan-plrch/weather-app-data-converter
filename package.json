@@ -1,0 +1,9 @@
+{
+  "name": "weather-app-data-converter",
+  "description": "Converts invalid json file (containing list of objects given in a line) into a valid json file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chetan P Jain <chetan.jain@iamblacklotus.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
